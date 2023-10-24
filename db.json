@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "name": "Martin Wolf",
+            "age": 17,
+            "email": "martin@wolf.email",
+            "online": true
+        },
+        {
+            "name": "John Doe",
+            "age": 35,
+            "email": "john@doe",
+            "online": false
+        },
+        {
+            "name": "Sarah Williams",
+            "age": 28,
+            "email": "sarah@williams.net",
+            "online": true
+        },
+        {
+            "name": "Michael Brown",
+            "age": 16,
+            "email": "michaelbrown.org",
+            "online": false
+        },
+        {
+            "name": "Robert Johnson",
+            "age": 26,
+            "email": "robert@johnsonuk",
+            "online": true
+        },
+        {
+            "name": "William Smith",
+            "age": 18,
+            "email": "william@smith.edu",
+            "online": false
+        },
+        {
+            "name": "David Miller",
+            "age": 62,
+            "email": "david@miller.gov",
+            "online": true
+        },
+        {
+            "name": "James Thompson",
+            "age": 17,
+            "email": "jamesthompsonbiz",
+            "online": false
+        },
+        {
+            "name": "Christopher Jackson",
+            "age": 16,
+            "email": "christopher@jackson.me",
+            "online": true
+        },
+        {
+            "name": "Lisa Brown",
+            "age": 25,
+            "email": "lisa@brown.info",
+            "online": false
+        }
+    ]
+}
